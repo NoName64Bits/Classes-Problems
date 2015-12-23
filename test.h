@@ -3,7 +3,6 @@
 
 class Test{
   public:
-    Test(void);
     void init(void);
 };
 
