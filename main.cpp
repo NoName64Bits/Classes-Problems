@@ -1,7 +1,8 @@
 #include "test.h"
 
 int main(void){
-  Test tst();
+  Test tst;
+  tst = Test();
   tst.init();
   return 0;
 }
